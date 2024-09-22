@@ -75,3 +75,6 @@ mvn clean install
 - the jar will be located inside the `target` folder.
  
  -you can run the compiled classes directly.
+
+ java -cp target/original-dsa-java-1.0-SNAPSHOT-shaded.jar mustafakhan.uk.to.App
+ mvn clean package
