@@ -73,3 +73,5 @@ mvn clean install
 
 - you can find the the compiled classes inside `target/classes` folder.
 - the jar will be located inside the `target` folder.
+ 
+ -you can run the compiled classes directly.
